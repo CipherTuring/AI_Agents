@@ -1,0 +1,13 @@
+{
+  "name": "tier1_tabular_range_wide",
+  "seed": 4,
+  "total_steps": 200000,
+  "episodes": 2278,
+  "train_seconds": 13.506225100002666,
+  "final_mean_return": 457.84,
+  "final_std_return": 66.39016794676755,
+  "threshold": 475,
+  "threshold_reached_final": false,
+  "steps_to_threshold": 160000,
+  "best_eval_mean": 499.3
+}

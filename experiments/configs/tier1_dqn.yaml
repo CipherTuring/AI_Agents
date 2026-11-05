@@ -1,0 +1,22 @@
+name: tier1_dqn
+env: CartPole-v1
+agent: dqn
+seeds: [0, 1, 2, 3, 4]
+total_steps: 200000
+eval_every: 5000
+eval_episodes: 10
+final_eval_episodes: 100
+threshold: 475
+agent_params:
+  hidden: [128, 128]
+  lr: 0.0005
+  gamma: 0.99
+  buffer_size: 50000
+  batch_size: 64
+  learning_starts: 1000
+  train_every: 4
+  target_update_every: 500
+  eps_start: 1.0
+  eps_end: 0.05
+  eps_decay_steps: 100000
+  loss: mse

@@ -1,0 +1,13 @@
+{
+  "name": "tier1_tabular_bins20_eps20k",
+  "seed": 0,
+  "total_steps": 200000,
+  "episodes": 5278,
+  "train_seconds": 23.23482570000033,
+  "final_mean_return": 60.65,
+  "final_std_return": 42.724553830321035,
+  "threshold": 475,
+  "threshold_reached_final": false,
+  "steps_to_threshold": null,
+  "best_eval_mean": 91.1
+}

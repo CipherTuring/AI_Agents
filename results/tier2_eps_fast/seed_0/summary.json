@@ -1,0 +1,13 @@
+{
+  "name": "tier2_eps_fast",
+  "seed": 0,
+  "total_steps": 500000,
+  "episodes": 789,
+  "train_seconds": 380.56534840000495,
+  "final_mean_return": 228.8300549965562,
+  "final_std_return": 41.79607712998991,
+  "threshold": 200,
+  "threshold_reached_final": true,
+  "steps_to_threshold": 350000,
+  "best_eval_mean": 235.8570624397127
+}

@@ -1,0 +1,12 @@
+# Install with: pip install -r requirements.txt
+# The extra index provides the CPU-only PyTorch build.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0+cpu
+gymnasium[box2d,classic-control]==1.4.0
+numpy==2.5.4
+pandas==3.1.1
+matplotlib==3.11.2
+pyyaml==6.0.3
+imageio==2.38.1
+pillow==13.0.0
+pytest==9.2.0

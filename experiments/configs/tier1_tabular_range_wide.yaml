@@ -1,0 +1,18 @@
+name: tier1_tabular_range_wide
+env: CartPole-v1
+agent: tabular
+seeds: [0, 1, 2, 3, 4]
+total_steps: 200000
+eval_every: 5000
+eval_episodes: 10
+final_eval_episodes: 100
+threshold: 475
+agent_params:
+  bins: 10
+  low: [-2.4, -3.0, -0.2095, -4.0]
+  high: [2.4, 3.0, 0.2095, 4.0]
+  alpha: 0.1
+  gamma: 0.99
+  eps_start: 1.0
+  eps_end: 0.05
+  eps_decay_steps: 100000

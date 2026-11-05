@@ -1,0 +1,13 @@
+{
+  "name": "tier2_no_target",
+  "seed": 2,
+  "total_steps": 500000,
+  "episodes": 1253,
+  "train_seconds": 247.36840120000306,
+  "final_mean_return": 233.60832608446347,
+  "final_std_return": 92.75387837189595,
+  "threshold": 200,
+  "threshold_reached_final": true,
+  "steps_to_threshold": 250000,
+  "best_eval_mean": 279.52417330824915
+}

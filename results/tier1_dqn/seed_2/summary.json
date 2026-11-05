@@ -1,0 +1,13 @@
+{
+  "name": "tier1_dqn",
+  "seed": 2,
+  "total_steps": 200000,
+  "episodes": 1945,
+  "train_seconds": 135.10831339999913,
+  "final_mean_return": 500.0,
+  "final_std_return": 0.0,
+  "threshold": 475,
+  "threshold_reached_final": true,
+  "steps_to_threshold": 50000,
+  "best_eval_mean": 500.0
+}

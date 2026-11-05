@@ -1,0 +1,22 @@
+21 runs to do, 4 at a time
+done tier2_base seed 0: final 262.5, 386s
+done tier2_base seed 2: final 235.0, 396s
+done tier2_base seed 1: final 261.1, 396s
+done tier2_eps_fast seed 0: final 228.8, 381s
+done tier2_eps_slow seed 0: final 264.8, 332s
+done tier2_eps_fast seed 1: final 236.1, 346s
+done tier2_eps_slow seed 1: final 233.4, 338s
+done tier2_eps_fast seed 2: final 207.1, 339s
+done tier2_eps_slow seed 2: final 275.9, 348s
+done tier2_lr_high seed 0: final 262.0, 355s
+done tier2_lr_high seed 2: final 255.9, 360s
+done tier2_lr_high seed 1: final 254.9, 353s
+done tier2_lr_low seed 0: final 205.0, 324s
+done tier2_lr_low seed 1: final 105.7, 327s
+done tier2_lr_low seed 2: final 215.1, 325s
+done tier2_no_replay seed 0: final -62.2, 345s
+done tier2_no_replay seed 1: final -19.6, 346s
+done tier2_no_target seed 0: final 233.7, 336s
+done tier2_no_replay seed 2: final -21.8, 360s
+done tier2_no_target seed 1: final 237.5, 337s
+done tier2_no_target seed 2: final 233.6, 247s

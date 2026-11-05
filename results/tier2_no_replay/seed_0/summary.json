@@ -1,0 +1,13 @@
+{
+  "name": "tier2_no_replay",
+  "seed": 0,
+  "total_steps": 500000,
+  "episodes": 866,
+  "train_seconds": 345.2875713999929,
+  "final_mean_return": -62.22677344339142,
+  "final_std_return": 20.874585507456963,
+  "threshold": 200,
+  "threshold_reached_final": false,
+  "steps_to_threshold": null,
+  "best_eval_mean": -19.355551867285477
+}

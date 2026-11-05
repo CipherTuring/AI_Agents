@@ -1,0 +1,13 @@
+{
+  "name": "tier1_dqn_huber",
+  "seed": 4,
+  "total_steps": 200000,
+  "episodes": 5049,
+  "train_seconds": 112.02712549999978,
+  "final_mean_return": 95.2,
+  "final_std_return": 7.041306696913578,
+  "threshold": 475,
+  "threshold_reached_final": false,
+  "steps_to_threshold": null,
+  "best_eval_mean": 466.6
+}

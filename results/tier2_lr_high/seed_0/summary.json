@@ -1,0 +1,13 @@
+{
+  "name": "tier2_lr_high",
+  "seed": 0,
+  "total_steps": 500000,
+  "episodes": 1386,
+  "train_seconds": 355.15600249999625,
+  "final_mean_return": 261.9570841691842,
+  "final_std_return": 24.02644157125331,
+  "threshold": 200,
+  "threshold_reached_final": true,
+  "steps_to_threshold": 150000,
+  "best_eval_mean": 282.5969735855528
+}
